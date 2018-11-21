@@ -15,6 +15,17 @@ public class Student {
 
     private Integer english;
 
+    public Student() {
+    }
+
+    public Student(String name) {
+        this.name = name;
+    }
+
+    public Student(String name, Integer yuWen) {
+        this.name = name;
+        this.yuWen = yuWen;
+    }
 
     public Student(String name, String stuNo, Integer yuWen, Integer math, Integer english) {
         this.name = name;
@@ -42,6 +53,10 @@ public class Student {
 
     public Integer getEnglish() {
         return english;
+    }
+
+    public String show(){
+        return "测试方法引用.........";
     }
 
     @Override
