@@ -1,4 +1,4 @@
-package com.java8.test1;
+package com.java8.lambda;
 
 import java.util.Comparator;
 import java.util.HashMap;
@@ -55,7 +55,6 @@ public class LambdaTest {
         test4();
         test5();
     }
-
 
 
 private static void test(){

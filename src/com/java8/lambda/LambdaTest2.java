@@ -1,6 +1,4 @@
-package com.java8.test1;
-
-import com.sun.org.apache.xpath.internal.SourceTree;
+package com.java8.lambda;
 
 import java.util.ArrayList;
 import java.util.Arrays;

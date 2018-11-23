@@ -1,4 +1,4 @@
-package com.java8.test1;
+package com.java8.lambda;
 
 /**
  * Created by zhengxianyou on 2018/11/12.

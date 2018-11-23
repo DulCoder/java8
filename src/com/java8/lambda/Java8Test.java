@@ -1,11 +1,11 @@
-package com.java8.test1;
+package com.java8.lambda;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by Administrator on 2018/11/12.
+ * Created by zhengxianyou on 2018/11/12.
  */
 public class Java8Test {
 
